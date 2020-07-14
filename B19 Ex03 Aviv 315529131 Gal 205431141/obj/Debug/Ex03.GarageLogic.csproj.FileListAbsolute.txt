@@ -1,0 +1,14 @@
+D:\לימודים\שנה ב\סמסטר ב\בחירה - סישארפ\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\bin\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.dll.config
+D:\לימודים\שנה ב\סמסטר ב\בחירה - סישארפ\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\bin\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.dll
+D:\לימודים\שנה ב\סמסטר ב\בחירה - סישארפ\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\bin\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.pdb
+D:\לימודים\שנה ב\סמסטר ב\בחירה - סישארפ\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+D:\לימודים\שנה ב\סמסטר ב\בחירה - סישארפ\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר ב\בחירה - סישארפ\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\obj\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.dll
+D:\לימודים\שנה ב\סמסטר ב\בחירה - סישארפ\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\obj\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.pdb
+D:\Degree\b\b\c_sharp\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\bin\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.dll.config
+D:\Degree\b\b\c_sharp\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\bin\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.dll
+D:\Degree\b\b\c_sharp\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\bin\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.pdb
+D:\Degree\b\b\c_sharp\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+D:\Degree\b\b\c_sharp\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+D:\Degree\b\b\c_sharp\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\obj\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.dll
+D:\Degree\b\b\c_sharp\מטלה 3\B19 Ex03 AvivAzuri 315529131 GalLevy 205431141\B19 Ex03 Aviv 315529131 Gal 205431141\obj\Debug\B19 Ex03 Aviv 315529131 Gal 205431141.pdb
